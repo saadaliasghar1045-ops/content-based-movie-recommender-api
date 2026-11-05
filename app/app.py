@@ -57,7 +57,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://saadaliasghar1045-ops.github.io",
-        "https://porfolio-e7n.pages.dev"
+        "https://saadaliasghar.pages.dev/"
     ],
     allow_credentials=False,
     allow_methods=["*"],
